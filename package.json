@@ -38,7 +38,7 @@
 		"inert": "^5.1.2",
 		"joi": "^14.3.1",
 		"js-cookie": "^2.2.0",
-		"jsonwebtoken": "^8.4.0",
+		"jsonwebtoken": "^9.0.0",
 		"localStorage": "^1.0.4",
 		"lzutf8": "^0.5.5",
 		"mlab-cli": "^1.1.2",
