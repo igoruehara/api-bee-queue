@@ -42,7 +42,7 @@
 		"localStorage": "^1.0.4",
 		"lzutf8": "^0.5.5",
 		"mlab-cli": "^1.1.2",
-		"mocha": "^6.2.0",
+		"mocha": "^10.2.0",
 		"mongoose": "^5.4.3",
 		"node-gyp": "^3.8.0",
 		"node-nlp": "^3.2.0",
